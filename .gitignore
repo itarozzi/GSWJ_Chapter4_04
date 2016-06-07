@@ -1,0 +1,5 @@
+JuceLibraryCode
+*bin/
+*obj/
+*.o
+
